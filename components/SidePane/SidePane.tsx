@@ -19,8 +19,8 @@ const SidePane = () => {
       </div>
       <div className="p-6">
         <div className="flex flex-col items-center gap-2">
-          <InfoCard title="Supun Mayushan" sub="Organizer" />
-          <InfoCard title="30 Minutes" sub="Duration" />
+          <InfoCard title="Supun Mayushan" sub="Organizer" image="" />
+          <InfoCard title="30 Minutes" sub="Duration" image="" />
         </div>
         <div className="absolute bottom-0 left-0 right-0 flex items-center justify-between px-6 py-4">
           <button className="bg-transparent px-4 py-3 text-[#AEAFD1] text-xs border border-[#303148] rounded-full outline-none">

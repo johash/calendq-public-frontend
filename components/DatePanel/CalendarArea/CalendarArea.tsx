@@ -7,7 +7,7 @@ const CalendarArea = () => {
   const [value, setValue] = useState(new Date());
 
   return (
-    <div className="flex gap-3 w-[820px] h-[440px] ">
+    <div className="flex gap-3 w-[820px] h-[445px] ">
       <div className="w-[50%] bg-white p-2 rounded-xl drop-shadow-md">
         <Calendar />
       </div>
